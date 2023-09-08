@@ -9,6 +9,8 @@ LinMo-Space：一个用Vue完成的前端小项目
 - 关于我页面用到了[**BotUI.js**](https://github.com/botui/botui)
 - 瀑布流页面用到了[**vue-waterfall2**](https://github.com/AwesomeDevin/vue-waterfall2)
 
+项目还存在一些BUG,例如连续点击前进音乐会报错，部分代码冗余等等，后期可能还维护
+
 ## 预览
 
 ### Home
