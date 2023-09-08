@@ -1,0 +1,83 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4231679 */
+  src: url('iconfont.woff2?t=1693406953577') format('woff2'),
+       url('iconfont.woff?t=1693406953577') format('woff'),
+       url('iconfont.ttf?t=1693406953577') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-mianhuatang-01:before {
+  content: "\e621";
+}
+
+.icon-mianbao-01:before {
+  content: "\e622";
+}
+
+.icon-niunai-01:before {
+  content: "\e626";
+}
+
+.icon-pisa-01:before {
+  content: "\e629";
+}
+
+.icon-tiantianquan-01:before {
+  content: "\e633";
+}
+
+.icon-tusi-01:before {
+  content: "\e634";
+}
+
+.icon-xuegao-01:before {
+  content: "\e635";
+}
+
+.icon-sanmingzhi-01:before {
+  content: "\e605";
+}
+
+.icon-bangbangtang-01:before {
+  content: "\e606";
+}
+
+.icon-baozi-01:before {
+  content: "\e607";
+}
+
+.icon-baomihua-01:before {
+  content: "\e608";
+}
+
+.icon-dangao-01:before {
+  content: "\e60c";
+}
+
+.icon-fengmi-01:before {
+  content: "\e610";
+}
+
+.icon-fantuan-01:before {
+  content: "\e612";
+}
+
+.icon-guantou-01:before {
+  content: "\e613";
+}
+
+.icon-hanbao-01:before {
+  content: "\e614";
+}
+
+.icon-kafei-01:before {
+  content: "\e61d";
+}
+
