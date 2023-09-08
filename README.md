@@ -6,24 +6,29 @@ LinMo-Space：一个用Vue完成的前端小项目
 
 技术栈：Vue2 + Element UI + Axios + Vue-Router + Vuex
 
-- 关于我页面用到了BotUI.js
-- 瀑布流页面用到了vue-waterfall2
+- 关于我页面用到了[**BotUI.js**](https://github.com/botui/botui)
+- 瀑布流页面用到了[**vue-waterfall2**](https://github.com/AwesomeDevin/vue-waterfall2)
 
 ## 预览
 
 ### Home
+
 ![](https://raw.githubusercontent.com/Karensky/myspace-Lin/master/public/imgs/text1.png)
 
 ### About
+
 ![](https://raw.githubusercontent.com/Karensky/myspace-Lin/master/public/imgs/text2.png)
 
 ### Music
+
 ![](https://raw.githubusercontent.com/Karensky/myspace-Lin/master/public/imgs/text3.png)
 
 ### Images
+
 ![](https://raw.githubusercontent.com/Karensky/myspace-Lin/master/public/imgs/text4.png)
 
 ## 开始使用
+
 ### 安装
 
 ```bash
@@ -32,3 +37,4 @@ yarn install
 
 //启动
 yarn serve
+```
