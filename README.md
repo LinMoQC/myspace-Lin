@@ -6,6 +6,9 @@ LinMo-Space：一个用Vue完成的前端小项目
 
 技术栈：Vue2 + Element UI + Axios + Vue-Router + Vuex
 
+- 关于我页面用到了BotUI.js
+- 瀑布流页面用到了vue-waterfall2
+
 ## 预览
 
 ### Home
