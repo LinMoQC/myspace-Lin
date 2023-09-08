@@ -1,29 +1,34 @@
-<<<<<<< HEAD
-# cx
+# 项目名称
 
-## Project setup
-```
-pnpm install
-```
+LinMo-Space：一个用Vue完成的前端小项目
 
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
+## 项目介绍
 
-### Compiles and minifies for production
-```
-pnpm run build
-```
+技术栈：Vue2 + Element UI + Axios + Vue-Router + Vuex
 
-### Lints and fixes files
-```
-pnpm run lint
-```
+## 预览
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# myspace-Lin
-一个用Vue写的前端小项目
->>>>>>> 65087a892f4a3a1808c21f8f9a3a93e5e5b839e0
+### Home
+![](https://raw.githubusercontent.com/Karensky/myspace-Lin/master/public/imgs/text1.png)
+
+### About
+![](https://raw.githubusercontent.com/Karensky/myspace-Lin/master/public/imgs/text2.png)
+
+### Music
+![](https://raw.githubusercontent.com/Karensky/myspace-Lin/master/public/imgs/text3.png)
+
+### Images
+![](https://raw.githubusercontent.com/Karensky/myspace-Lin/master/public/imgs/text4.png)
+
+## 开始使用
+
+以下是如何安装和开始使用您的项目的说明。
+
+### 安装
+
+```bash
+//安装依赖
+yarn install
+
+//启动
+yarn serve
