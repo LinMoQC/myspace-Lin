@@ -21,9 +21,6 @@ LinMo-Space：一个用Vue完成的前端小项目
 ![](https://raw.githubusercontent.com/Karensky/myspace-Lin/master/public/imgs/text4.png)
 
 ## 开始使用
-
-以下是如何安装和开始使用您的项目的说明。
-
 ### 安装
 
 ```bash
