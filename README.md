@@ -1,6 +1,6 @@
-# 项目名称
+# LinMo-Space
 
-LinMo-Space：一个用Vue完成的前端小项目
+一个用Vue完成的前端小项目
 
 ## 项目介绍
 
